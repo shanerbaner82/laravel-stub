@@ -1,4 +1,4 @@
-# THE STUB
+## THE STUB
 #### This is a very opinionated application I made for quickly creating custom dashboards and includes the following for quickly stubbing out my typical scenario for application scaffolding.
 
 * [Laravel](https://laravel.com)
