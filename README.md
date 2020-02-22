@@ -1,4 +1,4 @@
-#THE STUB
+# THE STUB
 
 1. [Laravel](https://laravel.com)
 2. [VueJS](https://vuejs.org)
@@ -7,4 +7,4 @@
 5. [PortalVue](https://github.com/LinusBorg/portal-vue)
 6. [Flash Messages](https://laravel-news.com/building-a-flash-message-component-with-vue-js-and-tailwind-css)
 
-##This is a very opinionated application I made for quickly creating custom dashboards
+##T his is a very opinionated application I made for quickly creating custom dashboards
