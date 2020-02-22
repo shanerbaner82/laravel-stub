@@ -1,15 +1,12 @@
+import Delete from "./components/DeleteMe/Delete";
 const routes = [
     {
         path: '/app',
-        component: () =>
-            import( /* webpackChunkName: "communication" */ './components/DeleteMe/Delete'),
+        component: Delete,
         children: [
             {
                 path: ':word',
-                component: () =>
-                    import(
-                        /* webpackChunkName: "communication" */ './components/DeleteMe/Delete'
-                        ),
+                component: Delete,
             },
         ],
     },

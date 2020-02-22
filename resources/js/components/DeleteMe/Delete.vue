@@ -5,7 +5,7 @@
                 class="bg-white p-6 rounded-lg w-full mx-4 sm:w-3/4 md:w-3/5 lg:w-1/2 xl:w-1/3"
             >
                 <h4 class="text-2xl text-center font-bold text-gray-800">Behind the scenes we are using the following opinionated packages and custom Vue components</h4>
-                <div class="max-w-2xl mt-4 flex flex-col text-center text-lg text-purple-500 font-bold">
+                <div class="max-w-2xl mx-auto mt-4 flex flex-col text-center text-lg text-purple-500 font-bold">
                     <a class="mt-2 text-xl" href="https://laravel.com" target="_blank">Laravel</a>
                     <a class="mt-2 text-xl" href="https://vuejs.org/" target="_blank">VueJS</a>
                     <a class="mt-2 text-xl" href="https://router.vuejs.org/" target="_blank">Vue Router</a>

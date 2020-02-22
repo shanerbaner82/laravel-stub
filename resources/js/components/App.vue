@@ -20,6 +20,7 @@
         components: { FlashMessage, Navbar },
         props: ['user'],
         mounted() {
+            window.localStorage.setItem('user', this.user);
             Bus.$emit('flash-message', {
                text: 'Welcome to the stub!',
                type: 'success'
