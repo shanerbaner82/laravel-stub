@@ -9,7 +9,7 @@
 6. [Flash Messages](https://laravel-news.com/building-a-flash-message-component-with-vue-js-and-tailwind-css)
 7. [Laravel Airlock](https://laravel.com/docs/master/airlock)
 8. [Spatie Permissions](https://github.com/spatie/laravel-permission)
-9. [Zttp](https://github.com/kitetail/zttp)
+9. [Zttp (Guzzle wrapper)](https://github.com/kitetail/zttp)
 10. [Vapor CLI && Vapor Core](https://docs.vapor.build/1.0/introduction.html)
 
 
