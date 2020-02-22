@@ -13,3 +13,11 @@
 * [Vapor CLI && Vapor Core](https://docs.vapor.build/1.0/introduction.html)
 
 [Check out the demo](https://moonlit-paris-9mhlm6kbgbkv.vapor-farm-b1.com/)
+
+___
+#### Installation
+
+###### Clone this repo the:
+```javascript
+composer install && npm install && npm run dev
+```
