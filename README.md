@@ -17,7 +17,7 @@
 ___
 #### Installation
 
-###### Clone this repo the:
+###### Clone this repo then:
 ```javascript
 composer install && npm install && npm run dev
 ```
