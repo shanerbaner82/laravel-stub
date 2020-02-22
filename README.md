@@ -10,7 +10,7 @@
 * [Laravel Airlock](https://laravel.com/docs/master/airlock)
 * [Spatie Permissions](https://github.com/spatie/laravel-permission)
 * [Zttp (Guzzle wrapper)](https://github.com/kitetail/zttp)
-* [Vapor CLI && Vapor Core](https://docs.vapor.build/1.0/introduction.html)
+* [Vapor CLI & Vapor Core](https://docs.vapor.build/1.0/introduction.html)
 
 ___
 [Check out the demo](https://moonlit-paris-9mhlm6kbgbkv.vapor-farm-b1.com/)
