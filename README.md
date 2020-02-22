@@ -8,4 +8,4 @@
 6. [Flash Messages](https://laravel-news.com/building-a-flash-message-component-with-vue-js-and-tailwind-css)
 3. [Laravel Airlock](https://laravel.com/docs/master/airlock)
 
-## This is a very opinionated application I made for quickly creating custom dashboards
+### This is a very opinionated application I made for quickly creating custom dashboards
